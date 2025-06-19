@@ -215,31 +215,13 @@ This notebook teaches:
 - **Error handling** and troubleshooting
 - **Business application** thinking
 
-## Next Steps
-
-After completing this lab:
-1. **Experiment** with different websites and prompts
-2. **Modify the system prompt** to change output style/language
-3. **Try the suggested exercise** (email subject line generation)
-4. **Explore advanced features** like different models or streaming
-5. **Consider contributing** improvements to the community folder
-
-## Support and Community
-
-- **Course instructor**: Available at ed@edwarddonner.com
-- **LinkedIn**: https://www.linkedin.com/in/eddonner/
-- **Troubleshooting**: See the troubleshooting.ipynb notebook
-- **Community contributions**: Submit pull requests for improvements
 
 ## Files Structure
 
 ```
 project-root/
 ├── Basic-Connect-OpenAI.ipynb    # Main notebook
-├── .env                          # Your API keys (create this)
-├── troubleshooting.ipynb         # Troubleshooting guide
-├── community-contributions/      # Student improvements
-└── guides/                       # Additional learning resources
+├── .env                          # Your API keys (create this)                    # Additional learning resources
 ```
 
 This lab represents your first step into frontier LLM engineering - by the end of the full course, you'll be building autonomous agentic AI solutions with multiple collaborating agents!
